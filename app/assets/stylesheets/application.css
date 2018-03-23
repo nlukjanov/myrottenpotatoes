@@ -67,9 +67,11 @@ table#movies th, table#movies td {
   text-align: left;
 }
 #notice, #warning {
-  background: rosybrown;
+  background-color: #FFFF00;
   margin: 1em 0;
   padding: 4px;
+  color: red;
+  text-align: center;
 }
 form label {
   display: block;
